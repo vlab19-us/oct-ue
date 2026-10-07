@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p228511-e2312339.adobeaemcloud.com/bin/franklin.delivery/vlab19-us/oct-ue/main"
-    type: "markup"
-    suffix: ".html"
