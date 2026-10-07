@@ -2,8 +2,10 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--oct-ue--vlab19-us.aem.page/
+- Live: https://main--oct-ue--vlab19-us.aem.live/
+
+
 
 ## Documentation
 
